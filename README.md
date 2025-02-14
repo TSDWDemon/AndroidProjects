@@ -1,1 +1,1 @@
-Switch From Main to Master line where the actual code is pushed
+Switch From Main to Master branch where the actual code is pushed
